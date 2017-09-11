@@ -8,8 +8,6 @@ public class Pletzer_Chapter1_6e_Q5 {
         This code used a simple for loop with a +1 incrementer to make an otherwise tedious problem simple.
         While using proper print syntax to ensure a nice final print.
         This code was also only written in the main, as it was short enough to complete in only a few lines.
-
-        *commit test*
          */
         System.out.println("Welcome to the integer display tool, I will output all integers between two values");
         System.out.println("Example Inputs -1, - 5; -1, 0, 1, 2, 3, 4, and 5.");
